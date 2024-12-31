@@ -1,0 +1,514 @@
+[
+  {
+    "Date": "1",
+    "Month": "1",
+    "Year": "2025",
+    "FullDate": "01-Jan-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "New Year Holiday"
+  },
+  {
+    "Date": "13",
+    "Month": "1",
+    "Year": "2025",
+    "FullDate": "13-Jan-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Lohri"
+  },
+  {
+    "Date": "14",
+    "Month": "1",
+    "Year": "2025",
+    "FullDate": "14-Jan-2025",
+    "Day": "Tuesday",
+    "ReasonforHoliday": "Hazrat Ali Jayanti,Makar Sankranti,Pongal"
+  },
+  {
+    "Date": "20",
+    "Month": "1",
+    "Year": "2025",
+    "FullDate": "20-Jan-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Guru Govind Singh Jayanti"
+  },
+  {
+    "Date": "26",
+    "Month": "1",
+    "Year": "2025",
+    "FullDate": "26-Jan-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Republic Day"
+  },
+  {
+    "Date": "2",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "02-Feb-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Vasant Panchami"
+  },
+  {
+    "Date": "12",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "12-Feb-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Guru Ravidas Jayanti"
+  },
+  {
+    "Date": "19",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "19-Feb-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Shivaji Jayanti"
+  },
+  {
+    "Date": "23",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "23-Feb-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Maharishi Dayanand Saraswati Jayanti"
+  },
+  {
+    "Date": "26",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "26-Feb-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Mahashivratri"
+  },
+  {
+    "Date": "28",
+    "Month": "2",
+    "Year": "2025",
+    "FullDate": "28-Feb-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Ramzan"
+  },
+  {
+    "Date": "13",
+    "Month": "3",
+    "Year": "2025",
+    "FullDate": "13-Mar-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Holika Dahan"
+  },
+  {
+    "Date": "14",
+    "Month": "3",
+    "Year": "2025",
+    "FullDate": "14-Mar-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Holi, Dol Yatra"
+  },
+  {
+    "Date": "30",
+    "Month": "3",
+    "Year": "2025",
+    "FullDate": "30-Mar-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Chaitra Navratri, Ugdi, Gudi Padwa"
+  },
+  {
+    "Date": "31",
+    "Month": "3",
+    "Year": "2025",
+    "FullDate": "31-Mar-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Eid-ul-Fitr"
+  },
+  {
+    "Date": "7",
+    "Month": "4",
+    "Year": "2025",
+    "FullDate": "07-Apr-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Ram Navami"
+  },
+  {
+    "Date": "10",
+    "Month": "4",
+    "Year": "2025",
+    "FullDate": "10-Apr-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Mahavir Jayanti"
+  },
+  {
+    "Date": "14",
+    "Month": "4",
+    "Year": "2025",
+    "FullDate": "14-Apr-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Baisakhi, Ambedkar Jayanti"
+  },
+  {
+    "Date": "18",
+    "Month": "4",
+    "Year": "2025",
+    "FullDate": "18-Apr-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Good Friday"
+  },
+  {
+    "Date": "20",
+    "Month": "4",
+    "Year": "2025",
+    "FullDate": "20-Apr-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Easter Day"
+  },
+  {
+    "Date": "1",
+    "Month": "5",
+    "Year": "2025",
+    "FullDate": "01-May-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "International Labour Day"
+  },
+  {
+    "Date": "7",
+    "Month": "5",
+    "Year": "2025",
+    "FullDate": "07-May-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Rabindranath Tagore Jayanti"
+  },
+  {
+    "Date": "11",
+    "Month": "5",
+    "Year": "2025",
+    "FullDate": "11-May-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Mother's Day"
+  },
+  {
+    "Date": "12",
+    "Month": "5",
+    "Year": "2025",
+    "FullDate": "12-May-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Buddha Purnima"
+  },
+  {
+    "Date": "7",
+    "Month": "6",
+    "Year": "2025",
+    "FullDate": "07-Jun-2025",
+    "Day": "Saturday",
+    "ReasonforHoliday": "Bakrid, Eid ul-Azha"
+  },
+  {
+    "Date": "15",
+    "Month": "5",
+    "Year": "2025",
+    "FullDate": "15-May-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Father's Day, June Sankranti"
+  },
+  {
+    "Date": "6",
+    "Month": "7",
+    "Year": "2025",
+    "FullDate": "06-Jul-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Muharram, Ashura"
+  },
+  {
+    "Date": "10",
+    "Month": "7",
+    "Year": "2025",
+    "FullDate": "10-Jul-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Guru Purnima"
+  },
+  {
+    "Date": "27",
+    "Month": "7",
+    "Year": "2025",
+    "FullDate": "27-Jul-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Rath Yatra"
+  },
+  {
+    "Date": "3",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "03-Aug-2025",
+    "Day": "Sunday",
+    "ReasonforHoliday": "Friendship Day"
+  },
+  {
+    "Date": "9",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "09-Aug-2025",
+    "Day": "Saturday",
+    "ReasonforHoliday": "Raksha Bandhan (Rakhi)"
+  },
+  {
+    "Date": "15",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "15-Aug-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Independence Day"
+  },
+  {
+    "Date": "16",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "16-Aug-2025",
+    "Day": "Saturday",
+    "ReasonforHoliday": "Janmashtami"
+  },
+  {
+    "Date": "26",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "26-Aug-2025",
+    "Day": "Tuesday",
+    "ReasonforHoliday": "Onam"
+  },
+  {
+    "Date": "27",
+    "Month": "8",
+    "Year": "2025",
+    "FullDate": "27-Aug-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Ganesh Chaturthi, Vinayaka Chaturthi"
+  },
+  {
+    "Date": "5",
+    "Month": "9",
+    "Year": "2025",
+    "FullDate": "05-Sep-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Milad un-Nabi, Eid-e-Milad"
+  },
+  {
+    "Date": "22",
+    "Month": "9",
+    "Year": "2025",
+    "FullDate": "22-Sep-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "First day of Sharad Navratri"
+  },
+  {
+    "Date": "1",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "01-Oct-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Mahanavami"
+  },
+  {
+    "Date": "2",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "02-Oct-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Mahatma Gandhi Jayanti, Vijay Dashami"
+  },
+  {
+    "Date": "7",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "07-Oct-2025",
+    "Day": "Tuesday",
+    "ReasonforHoliday": "Maharishi Valmiki Jayanti"
+  },
+  {
+    "Date": "10",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "10-Oct-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Karva Chauth"
+  },
+  {
+    "Date": "20",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "20-Oct-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Halloween, Narak Chaturthi"
+  },
+  {
+    "Date": "21",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "21-Oct-2025",
+    "Day": "Tuesday",
+    "ReasonforHoliday": "Diwali"
+  },
+  {
+    "Date": "22",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "22-Oct-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Diwali Holiday"
+  },
+  {
+    "Date": "23",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "23-Oct-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Bhai Dooj"
+  },
+  {
+    "Date": "31",
+    "Month": "10",
+    "Year": "2025",
+    "FullDate": "31-Oct-2025",
+    "Day": "Friday",
+    "ReasonforHoliday": "Chhath Puja"
+  },
+  {
+    "Date": "5",
+    "Month": "11",
+    "Year": "2025",
+    "FullDate": "05-Nov-2025",
+    "Day": "Wednesday",
+    "ReasonforHoliday": "Guru Nanak Jayanti"
+  },
+  {
+    "Date": "24",
+    "Month": "11",
+    "Year": "2025",
+    "FullDate": "24-Nov-2025",
+    "Day": "Monday",
+    "ReasonforHoliday": "Martyrdom Day of Guru Tegh Bahadur"
+  },
+  {
+    "Date": "25",
+    "Month": "12",
+    "Year": "2025",
+    "FullDate": "25-Dec-2025",
+    "Day": "Thursday",
+    "ReasonforHoliday": "Christmas"
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  },
+  {
+    "Date": "",
+    "Month": "",
+    "Year": "",
+    "FullDate": "",
+    "Day": "",
+    "ReasonforHoliday": ""
+  }
+]
