@@ -86,5 +86,29 @@
     "URL": "https://locator.jeevanbimabazaar.com/2022/02/lic-ajmer-divisional-office.html",
     "Parent Area": "Rajasthan",
     "Parent Office Type": "LIC Zonal Office Delhi"
+  },
+  {
+    "Area Name": "Jodhpur",
+    "Office Type": "Division Office",
+    "Page Name": "LIC Divisional Office Jodhpur",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-division-office-Jodhpur.html",
+    "Parent Area": "Rajasthan",
+    "Parent Office Type": "LIC Zonal Office Delhi"
+  },
+  {
+    "Area Name": "Barmer",
+    "Office Type": "Branch Office",
+    "Page Name": "LIC Branch Office Barmer 183",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-183.html",
+    "Parent Area": "Rajasthan",
+    "Parent Office Type": "LIC Divisional Office Jodhpur"
+  },
+  {
+    "Area Name": "Chohtan",
+    "Office Type": "Satellite Office",
+    "Page Name": "LIC Satellite Office Chohtan 183T002",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chohtan-info.html",
+    "Parent Area": "Barmer",
+    "Parent Office Type": "LIC Branch Office Barmer 183"
   }
 ]
