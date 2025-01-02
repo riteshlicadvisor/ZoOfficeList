@@ -1,0 +1,90 @@
+[
+  {
+    "Area Name": "(No Area)",
+    "Office Type": "(No Office Type)",
+    "Page Name": "Home",
+    "URL": "https://locator.jeevanbimabazaar.com/p/location-of-lic.html",
+    "Parent Area": "(No Parent)",
+    "Parent Office Type": "(No Parent)"
+  },
+  {
+    "Area Name": "Mumbai",
+    "Office Type": "Central Office",
+    "Page Name": "LIC Central Office Mumbai",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-central-office-details.html",
+    "Parent Area": "Maharashtra",
+    "Parent Office Type": "Home"
+  },
+  {
+    "Area Name": "Patna",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Patna",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-patna.html",
+    "Parent Area": "Bihar",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Bhopal",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Bhopal",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-bhopal.html",
+    "Parent Area": "Madhya Pradesh",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Kolkata",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Kolkata",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kolkata.html",
+    "Parent Area": "West Bengal",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Kanpur",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Kanpur",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-kanpur.html",
+    "Parent Area": "Uttar Pradesh",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Mumbai",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Mumbai",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-mumbai.html",
+    "Parent Area": "Maharashtra",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Chennai",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Chennai",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-of-india-southern-zonal-office.html",
+    "Parent Area": "Tamil Nadu",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Central Delhi",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Delhi",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-delhi.html",
+    "Parent Area": "Delhi",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Hyderabad",
+    "Office Type": "Zonal Office",
+    "Page Name": "LIC Zonal Office Hyderabad",
+    "URL": "https://locator.jeevanbimabazaar.com/2021/11/lic-zonal-office-hyderabad.html",
+    "Parent Area": "Telangana",
+    "Parent Office Type": "LIC Central Office Mumbai"
+  },
+  {
+    "Area Name": "Ajmer",
+    "Office Type": "Division Office",
+    "Page Name": "LIC Divisional Office Ajmer",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/02/lic-ajmer-divisional-office.html",
+    "Parent Area": "Rajasthan",
+    "Parent Office Type": "LIC Zonal Office Delhi"
+  }
+]
