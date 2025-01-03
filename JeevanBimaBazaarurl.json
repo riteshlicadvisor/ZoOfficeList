@@ -1,12 +1,28 @@
-[
-  {
-    "ID": "licBranchLocatorHi",
-    "Name": "एलआईसी शाखा कार्यालय लोकेटर",
-    "Url": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html"
-  },
-  {
-    "ID": "licAgentLocatorHi",
-    "Name": "एलआईसी एजेंट लोकेटर",
-    "Url": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html"
-  }
-]
+{
+  "LocatorHindi": [
+    {
+      "ID": "licBranchLocatorHi",
+      "Name": "एलआईसी शाखा कार्यालय लोकेटर",
+      "Url": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html"
+    },
+    {
+      "ID": "licAgentLocatorHi",
+      "Name": "एलआईसी एजेंट लोकेटर",
+      "Url": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html"
+    }
+  ],
+  "LocatorEnglish": [
+    {
+      "ID": "licBranchLocatorEn",
+      "Name": "Search LIC Branch Office",
+      "Url": ""
+    },
+    {
+      "ID": "licAgentLocatorEn",
+      "Name": "Professional LIC Agent Near You",
+      "Url": ""
+    }
+  ],
+  "BazaarHindi": [],
+  "BazaarEnglish": []
+}
