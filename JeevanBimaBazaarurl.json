@@ -33,8 +33,20 @@
       "Url": "https://locator.jeevanbimabazaar.com/p/professional-lic-agent-near-you.html"
     }
   ],
-  "BazaarHindi": [],
-  "BazaarEnglish": [],
+  "BazaarHindi": [
+    {
+      "ID": "CustSupGuidHi-Page1",
+      "Name": "एलआईसी पॉलिसी में मोबाइल नंबर अपडेट करने के लिए आवश्यक कदम",
+      "Url": "https://www.jeevanbimabazaar.com/2022/06/lic-policy-mobile-update-form.html"
+    }
+  ],
+  "BazaarEnglish": [
+    {
+      "ID": "CustSupGuidEn-Page1",
+      "Name": "Steps Required to Update Mobile Number in LIC Policy",
+      "Url": "https://www.jeevanbimabazaar.com/2025/01/update-lic-policy-mobile-number.html"
+    }
+  ],
   "Documents": [
     {
       "ID": "licMobEmailUpdateForm",
