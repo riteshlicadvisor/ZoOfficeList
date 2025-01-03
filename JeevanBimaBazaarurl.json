@@ -46,5 +46,72 @@
       "Name": "LIC Form 300 Dummy File English",
       "Url": "https://drive.google.com/uc?export=download&amp;id=1Oq6mnLU76HCUxFuhRYQ4xx1LfhVLjW2Y"
     }
+  ],
+  "ImpNumSer": [
+    {
+      "ID": "licCallCenter",
+      "Name": "022-6827-6827",
+      "url": ""
+    },
+    {
+      "ID": "licHealthPlanCallCenter",
+      "Name": "1800-425-9876",
+      "url": ""
+    },
+    {
+      "ID": "IndiPolStetusSmsService",
+      "Name": "ASKLIC <POLICY NO> STAT",
+      "url": ""
+    },
+    {
+      "ID": "IndiPolPremiumSmsService",
+      "Name": "ASKLIC <POLICY NO> PREMIUM",
+      "url": ""
+    },
+    {
+      "ID": "IndiPolBonusSmsService",
+      "Name": "ASKLIC <POLICY NO> BONUS",
+      "url": ""
+    },
+    {
+      "ID": "IndiPolRevivalSmsService",
+      "Name": "ASKLIC <POLICY NO> REVIVAL",
+      "url": ""
+    },
+    {
+      "ID": "IndiPolNominationSmsService",
+      "Name": "ASKLIC <POLICY NO> NOMINATION",
+      "url": ""
+    },
+    {
+      "ID": "PenPolStetusSmsService",
+      "Name": "ASKLIC <POLICY NO> STAT",
+      "url": ""
+    },
+    {
+      "ID": "PenPolExiCertDue",
+      "Name": "ASKLIC <POLICY NO> ECDUE",
+      "url": ""
+    },
+    {
+      "ID": "PenPolAnnRelDate",
+      "Name": "ASKLIC <POLICY NO> ANNPD",
+      "url": ""
+    },
+    {
+      "ID": "PenPolAnnPayment",
+      "Name": "ASKLIC <POLICY NO> PDTHRU",
+      "url": ""
+    },
+    {
+      "ID": "PenPolAnnAmoDet",
+      "Name": "ASKLIC <POLICY NO> AMOUNT",
+      "url": ""
+    },
+    {
+      "ID": "PenPolCheqRetStatus",
+      "Name": "ASKLIC <POLICY NO> CHQRET",
+      "url": ""
+    }
   ]
 }
