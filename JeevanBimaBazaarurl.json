@@ -13,6 +13,16 @@
   ],
   "LocatorEnglish": [
     {
+      "ID": "licHomeEn",
+      "Name": "Life Insurance Corporation of India",
+      "Url": "https://licindia.in/"
+    },
+    {
+      "ID": "licLoginEn",
+      "Name": "LIC Login",
+      "Url": "https://ebiz.licindia.in/D2CPM/#Login"
+    },
+    {
       "ID": "licBranchLocatorEn",
       "Name": "Search LIC Branch Office",
       "Url": "https://locator.jeevanbimabazaar.com/p/search-lic-branch-office.html"
@@ -24,5 +34,17 @@
     }
   ],
   "BazaarHindi": [],
-  "BazaarEnglish": []
+  "BazaarEnglish": [],
+  "Documents": [
+    {
+      "ID": "licMobEmailUpdateForm",
+      "Name": "LIC Mobile Email Registration Form",
+      "Url": "https://drive.google.com/uc?export=download&amp;id=1MMs7zQG2yWLOQLm8OzqE5hiN7C4dldjH"
+    },
+    {
+      "ID": "f300DummyEng",
+      "Name": "LIC Form 300 Dummy File English",
+      "Url": "https://drive.google.com/uc?export=download&amp;id=1Oq6mnLU76HCUxFuhRYQ4xx1LfhVLjW2Y"
+    }
+  ]
 }
