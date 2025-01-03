@@ -36,6 +36,11 @@
   "BazaarHindi": [
     {
       "ID": "CustSupGuidHi-Page1",
+      "Name": "एलआईसी पॉलिसी सहायता: आपके पॉलिसी से जुड़ी जानकारी",
+      "Url": "https://www.jeevanbimabazaar.com/p/lic-policy-support-guide.html"
+    },
+    {
+      "ID": "CustSupGuidHi-Post1",
       "Name": "एलआईसी पॉलिसी में मोबाइल नंबर अपडेट करने के लिए आवश्यक कदम",
       "Url": "https://www.jeevanbimabazaar.com/2022/06/lic-policy-mobile-update-form.html"
     }
@@ -43,6 +48,11 @@
   "BazaarEnglish": [
     {
       "ID": "CustSupGuidEn-Page1",
+      "Name": "LIC Customer Support: Complete Policy Servicing Information",
+      "Url": "https://www.jeevanbimabazaar.com/p/lic-customer-support.html"
+    },
+    {
+      "ID": "CustSupGuidEn-Post1",
       "Name": "Steps Required to Update Mobile Number in LIC Policy",
       "Url": "https://www.jeevanbimabazaar.com/2025/01/update-lic-policy-mobile-number.html"
     }
