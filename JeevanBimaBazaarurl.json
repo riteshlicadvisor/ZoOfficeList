@@ -409,6 +409,36 @@
       "ID": "liclunCloTime",
       "Name": "05:00 PM",
       "url": ""
+    },
+    {
+      "ID": "licFacebook",
+      "Name": "LIC Facebook Account (Official)",
+      "url": "https://www.facebook.com/LICIndiaForever"
+    },
+    {
+      "ID": "licX",
+      "Name": "LIC X Account (Official)",
+      "url": "https://x.com/LICIndiaForever"
+    },
+    {
+      "ID": "licLinkedin",
+      "Name": "LIC Linked-in Account (Official)",
+      "url": "https://www.linkedin.com/company/lic/"
+    },
+    {
+      "ID": "licYouTube",
+      "Name": "LIC YouTube Account (Official)",
+      "url": "https://www.youtube.com/user/licindiaforever"
+    },
+    {
+      "ID": "licOfficialWebsite",
+      "Name": "LIC Official Website",
+      "url": "https://licindia.in/"
+    },
+    {
+      "ID": "licWhatsApp",
+      "Name": 8976862090,
+      "url": ""
     }
   ]
 }
