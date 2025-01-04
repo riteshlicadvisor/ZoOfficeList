@@ -382,32 +382,32 @@
     },
     {
       "ID": "licOffOpeTime",
-      "Name": "1899-12-30T04:38:50.000Z",
+      "Name": "10:00 AM",
       "url": ""
     },
     {
       "ID": "licOffCloTime",
-      "Name": "1899-12-30T12:08:50.000Z",
+      "Name": "05:30 PM",
       "url": ""
     },
     {
       "ID": "licCasOpeTime",
-      "Name": "1899-12-30T04:38:50.000Z",
+      "Name": "10:00 AM",
       "url": ""
     },
     {
       "ID": "licCasCloTime",
-      "Name": "1899-12-30T10:53:50.000Z",
+      "Name": "04:15 PM",
       "url": ""
     },
     {
       "ID": "liclunOpeTime",
-      "Name": "1899-12-30T08:08:50.000Z",
+      "Name": "01:30 PM",
       "url": ""
     },
     {
       "ID": "liclunCloTime",
-      "Name": "1899-12-30T08:38:50.000Z",
+      "Name": "05:00 PM",
       "url": ""
     }
   ]
