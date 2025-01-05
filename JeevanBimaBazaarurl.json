@@ -439,6 +439,91 @@
       "ID": "licWhatsApp",
       "Name": 8976862090,
       "url": ""
+    },
+    {
+      "ID": "licCreditCardSupport",
+      "Name": "011-45512817",
+      "url": ""
+    },
+    {
+      "ID": "licSmsHelp1",
+      "Name": 9222492224,
+      "url": ""
+    },
+    {
+      "ID": "licSmsHelp2",
+      "Name": 56767877,
+      "url": ""
+    },
+    {
+      "ID": "licCusAppPlayStore",
+      "Name": "Play Store App",
+      "url": "https://play.google.com/store/apps/details?id=com.lic.liccustomer&hl=en_IN"
+    },
+    {
+      "ID": "licCusApplAppStore",
+      "Name": "App Store App",
+      "url": "https://apps.apple.com/in/app/lic-digital/id1324159013"
+    },
+    {
+      "ID": "licOnlineSupportEmail",
+      "Name": "bo_eps1@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licCreditCardSupportEmail",
+      "Name": "lic-creditcard@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licAgentSupportEmail",
+      "Name": "agent_support@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licAgentPortalSupportEmail",
+      "Name": "portalsupport@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licZO01-1",
+      "Name": "011-49901400",
+      "url": ""
+    },
+    {
+      "ID": "licZO01-2",
+      "Name": "011-49901401",
+      "url": ""
+    },
+    {
+      "ID": "licZO01Email-1",
+      "Name": "nz_cc@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licZO01Email-2",
+      "Name": "customerzone_delhi@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licDivD018-1",
+      "Name": "0145-266091",
+      "url": ""
+    },
+    {
+      "ID": "licDivD018-2",
+      "Name": "0145-2660083",
+      "url": ""
+    },
+    {
+      "ID": "licDivEmailD018-1",
+      "Name": "sdm.ajmer@licindia.com",
+      "url": ""
+    },
+    {
+      "ID": "licDivEmailD018-2",
+      "Name": "crm.ajmer@licindia.com",
+      "url": ""
     }
   ]
 }
