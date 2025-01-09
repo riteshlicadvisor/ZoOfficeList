@@ -439,5 +439,68 @@
     "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chohtan-info.html",
     "parentArea": "Barmer",
     "parentOfficeType": "LIC Branch Office Barmer 183"
+  },
+  {
+    "areaName": "Gumanpura ",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Kota",
+    "pageShortName": "LIC SO 182T001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-kota-so-info.html",
+    "parentArea": "Kota",
+    "parentOfficeType": "LIC Branch Office Kota – I"
+  },
+  {
+    "areaName": "Itawa",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Itawa",
+    "pageShortName": "LIC SO 18XT001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-itawa-info.html",
+    "parentArea": "Kota",
+    "parentOfficeType": "LIC Branch Office Kota – III"
+  },
+  {
+    "areaName": "Jahazpur",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Jahazpur",
+    "pageShortName": "LIC SO 18JT001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-jahazpur-info.html",
+    "parentArea": "Bhilwara",
+    "parentOfficeType": "LIC Branch Office Shahpura"
+  },
+  {
+    "areaName": "Chhabra",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Chhabra",
+    "pageShortName": "LIC SO 18MT001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chhabra-info.html",
+    "parentArea": "Baran",
+    "parentOfficeType": "LIC Branch Office Baran"
+  },
+  {
+    "areaName": "Pisangan",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Pisangan",
+    "pageShortName": "LIC SO 106T001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-pisangan-info.html",
+    "parentArea": "Ajmer",
+    "parentOfficeType": "LIC Branch Office Ajmer - II"
+  },
+  {
+    "areaName": "Nainwa",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Nainwa",
+    "pageShortName": "LIC SO 1201T001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-nainwa-info.html",
+    "parentArea": "Bundi",
+    "parentOfficeType": "LIC Branch Office Lakheri"
+  },
+  {
+    "areaName": "Ajmer",
+    "officeType": "Satellite Office",
+    "pageName": "LIC Satellite Office Ajmer-1",
+    "pageShortName": "LIC SO 181T001",
+    "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-ajmer-1-info.html",
+    "parentArea": "Rajasthan",
+    "parentOfficeType": "LIC Branch Office Ajmer - I"
   }
 ]
