@@ -243,7 +243,7 @@
       "insertLink": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18f.html"
     },
     {
-      "ID": "licBo181",
+      "ID": "licBo182",
       "displayItem": "LIC Branch Office Kota – I",
       "insertLink": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-182.html"
     },
@@ -276,6 +276,41 @@
       "ID": "licBo18J",
       "displayItem": "LIC Branch Office Shahpura",
       "insertLink": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-18j.html"
+    },
+    {
+      "ID": "licSo182T001",
+      "displayItem": "LIC Satellite Office Kota",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-kota-so-info.html"
+    },
+    {
+      "ID": "licSo18XT001",
+      "displayItem": "LIC Satellite Office Itawa",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-itawa-info.html"
+    },
+    {
+      "ID": "licSo18JT001",
+      "displayItem": "LIC Satellite Office Jahazpur",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-jahazpur-info.html"
+    },
+    {
+      "ID": "licSo18MT001",
+      "displayItem": "LIC Satellite Office Chhabra",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-chhabra-info.html"
+    },
+    {
+      "ID": "licSo106T001",
+      "displayItem": "LIC Satellite Office Pisangan",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-pisangan-info.html"
+    },
+    {
+      "ID": "licSo1201T001",
+      "displayItem": "LIC Satellite Office Nainwa",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-nainwa-info.html"
+    },
+    {
+      "ID": "licSo181T001",
+      "displayItem": "LIC Satellite Office Ajmer-1",
+      "insertLink": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-ajmer-1-info.html"
     }
   ],
   "BazaarHindi": [
