@@ -556,5 +556,59 @@
     "URL": "https://locator.jeevanbimabazaar.com/2025/01/lic-office-ramganj-mandi-info.html",
     "parentArea": "Kota",
     "parentOfficeType": "LIC Branch Office Bhawanimandi"
+  },
+  {
+    "areaName": "Abohar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Abohar",
+    "pageShortName": "LIC BO 149",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-abohar-149.html",
+    "parentArea": "Fazilka",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
+  },
+  {
+    "areaName": "Amritsar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Amritsar, CAB",
+    "pageShortName": "LIC BO 329",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-329.html",
+    "parentArea": "Punjab",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
+  },
+  {
+    "areaName": "Amritsar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Amritsar-I",
+    "pageShortName": "LIC BO 143",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-143.html",
+    "parentArea": "Punjab",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
+  },
+  {
+    "areaName": "Amritsar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Amritsar-II",
+    "pageShortName": "LIC BO 146",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-146.html",
+    "parentArea": "Punjab",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
+  },
+  {
+    "areaName": "Amritsar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Amritsar-III",
+    "pageShortName": "LIC BO 140",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-140.html",
+    "parentArea": "Punjab",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
+  },
+  {
+    "areaName": "Amritsar",
+    "officeType": "Branch Office",
+    "pageName": "LIC Branch Office Amritsar-IV",
+    "pageShortName": "LIC BO 150",
+    "URL": "https://locator.jeevanbimabazaar.com/2022/03/lic-branch-amritsar-150.html",
+    "parentArea": "Punjab",
+    "parentOfficeType": "LIC Divisional Office Amritsar"
   }
 ]
