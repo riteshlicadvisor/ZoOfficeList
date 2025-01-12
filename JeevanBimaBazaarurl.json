@@ -674,6 +674,26 @@
       "ID": "licDivEmailD018-2",
       "displayItem": "crm.ajmer@licindia.com",
       "insertLink": ""
+    },
+    {
+      "ID": "licDivD047-1",
+      "displayItem": "0183-2504961",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivD047-2",
+      "displayItem": "0183-2504965",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD047-1",
+      "displayItem": "sdm.amritsar@licindia.com",
+      "insertLink": ""
+    },
+    {
+      "ID": "licDivEmailD047-2",
+      "displayItem": "crm.amritsar@licindia.com",
+      "insertLink": ""
     }
   ]
 }
